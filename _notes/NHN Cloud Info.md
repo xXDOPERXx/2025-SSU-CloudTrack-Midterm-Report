@@ -33,3 +33,5 @@ NFS Storage node를 사용한 스토리지 공유 시스템
 CI/CD 구축을 할 수 있다.
 # [[K-PaaS 소스 컨트롤 설치]]
 Git과 같은 형상관리 도구
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

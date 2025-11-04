@@ -11,3 +11,5 @@ ___
 -  [[Container|Containers]]
 -  [[DevOps]]
 -  [[Continuous Integration & Continuous Deployment|CI/CD]] 
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

@@ -14,3 +14,5 @@ ___
 **Down** : 높은 성능의 모듈을 적정 수준으로 다운그레이드
 ## Auto Scaling
 오토 스케일링을 사용하면, 증가하는 부하에 따라 Scale In/Out 혹은 Scale Up/down을 자동으로 수행하도록 처리할 수 있다. 
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

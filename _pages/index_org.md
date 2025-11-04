@@ -5,29 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+{% assign target = site.notes | where: "title", "2025-2 SSU CloudTrack 중간 고사 대체 과제" | first %}
+<meta http-equiv="refresh" content="0; url={{ site.baseurl }}{{ target.url }}" />
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+# 학습 자료
+
+해당 사이트는 자동으로 학습 자료 메인으로 이동합니다. 이동하지 않으면 아래 링크를 클릭하세요.
+
+<p>
+  <a class="internal-link" href="{{ site.baseurl }}{{ target.url }}">2025-2 SSU CloudTrack 중간 고사 대체 과제</a>
 </p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<strong>Recently updated notes</strong>
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>

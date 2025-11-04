@@ -33,3 +33,5 @@ ___
 **[[Cloud Service Provider|CSP]]들의 서비스 조합을 통한 가격 경쟁력 확보**
 ![](/assets/img/스크린샷 2025-10-30 오전 11.36.58.png)
 
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]
+

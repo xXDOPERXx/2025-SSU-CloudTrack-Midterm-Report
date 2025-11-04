@@ -5,3 +5,5 @@ ___
 ## Non-Pipeline Vs. Pipeline
 ![](/assets/img/스크린샷 2025-11-04 오후 2.00.57.png)
 일련의 작업 과정이 마칠때까지 다른 공정이 쉬는 문제를 파이프라이닝을 통해 해결
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

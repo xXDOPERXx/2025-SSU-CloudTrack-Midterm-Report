@@ -28,3 +28,5 @@ ___
 ![](/assets/img/Pasted image 20251102190200.png)
 ## Hypervisor Vs. Container
 ![](/assets/img/Pasted image 20251102190829.png)
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

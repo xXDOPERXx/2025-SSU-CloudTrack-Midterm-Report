@@ -47,3 +47,5 @@ ___
 - HTTP 요청 기반 자동 스케일링
 ## GKE Vs. Cloud Run
 ![](/assets/img/스크린샷 2025-11-04 오후 9.15.44.png)
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

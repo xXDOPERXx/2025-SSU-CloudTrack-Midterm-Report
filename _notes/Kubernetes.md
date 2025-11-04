@@ -170,3 +170,5 @@ spec.template.spec.nodeSelector :
 "---"로 구분 지어 작성
 ## Kubernetes 배포 도구
 ![](/assets/img/Pasted image 20251102223326.png)
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

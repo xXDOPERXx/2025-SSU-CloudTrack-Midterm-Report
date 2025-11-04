@@ -49,3 +49,5 @@ Edge Computing 기반 배포 방식으로 단독 배포와 같이 [[Kubernetes|�
 오픈소스 기반의 RDBMS
 ##### Keycloak
 오픈소스 기반의 IAM 소프트웨어
+
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]
