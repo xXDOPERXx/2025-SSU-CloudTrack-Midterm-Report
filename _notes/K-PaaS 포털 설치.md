@@ -17,7 +17,9 @@ ___
 - ChartMuseum 설치
 - Chaos Mesh 설치
 ## 포털 접속
-##### 주소 : portal.{{ingress external ip}}.nip.io
+##### 주소 : portal.{% raw %}{{ingress external ip}}{% endraw %}.nip.io
 - nip.io는 도메인 호스트 서비스
 포털에서 클러스터 정보를 관리할 수 있다.
 
+return to
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

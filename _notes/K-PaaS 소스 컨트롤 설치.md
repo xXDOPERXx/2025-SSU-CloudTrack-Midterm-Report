@@ -13,4 +13,7 @@ ___
 - source-control-api 설치 
 - source-control-ui 설치
 ## 소스 컨트롤 접속
-##### 주소: scm.{{ingress external ip}}.nip.io
+##### 주소: scm.{% raw %}{{ingress external ip}}{% endraw %}.nip.io
+
+return to
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

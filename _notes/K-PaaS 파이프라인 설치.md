@@ -11,4 +11,7 @@ ___
 ## Deployment 스크립트 실행
 - pipeline 설치
 ## 파이프라인 접속
-##### 주소 : pipeline.{{ingress external ip}}.nip.io
+##### 주소 : pipeline.{% raw %}{{ingress external ip}}{% endraw %}.nip.io
+
+return to
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]
