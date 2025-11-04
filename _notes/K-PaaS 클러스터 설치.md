@@ -30,4 +30,5 @@
 - 마스터 노드에, SSH 접근을 위한 플로팅 IP 제외, 플로팅IP 추가
 - Network Interface에 플로팅 IP 부착
 
+return to
 [[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

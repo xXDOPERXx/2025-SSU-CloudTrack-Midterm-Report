@@ -12,4 +12,5 @@ ___
 ## [[Platform as a Service|PaaS]]기반에서의 CI/CD 자동화
 ![](/assets/img/스크린샷 2025-11-04 오후 2.05.10.png)
 
+return to
 [[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

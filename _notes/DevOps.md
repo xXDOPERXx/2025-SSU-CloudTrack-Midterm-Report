@@ -27,5 +27,6 @@ ___
 - 소프트웨어 질 향상 및 배포에 소요되는 시간 절약
 - [[Pipeline]]은 [[Continuous Integration & Continuous Deployment|지속적 배포]]의 핵심 요소 ![](/assets/img/스크린샷 2025-11-04 오후 2.02.21.png)
 
+return to
 [[2025-2 SSU CloudTrack 중간 고사 대체 과제]]
 

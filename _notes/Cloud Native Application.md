@@ -12,4 +12,5 @@ ___
 -  [[DevOps]]
 -  [[Continuous Integration & Continuous Deployment|CI/CD]] 
 
+return to
 [[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

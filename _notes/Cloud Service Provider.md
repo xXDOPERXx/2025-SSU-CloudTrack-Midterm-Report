@@ -6,3 +6,6 @@ ___
 - Google Cloud Platform
 - Microsoft Azure
 - Oracle Cloud
+
+return to
+[[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

@@ -23,4 +23,6 @@ ___
 - 관리형 쿠버네티스 환경
 ### EC2 실행 환경
 - Auto [[Scalability|Scaling]] Group 생성 후, Cluster와 연결
+
+return to
 [[2025-2 SSU CloudTrack 중간 고사 대체 과제]]

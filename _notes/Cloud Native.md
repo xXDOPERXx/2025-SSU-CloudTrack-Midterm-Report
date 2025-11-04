@@ -14,4 +14,5 @@ ___
 ![](/assets/img/스크린샷 2025-11-04 오후 2.06.11.png)
 ![](/assets/img/스크린샷 2025-11-04 오후 2.07.07.png)
 
+return to
 [[2025-2 SSU CloudTrack 중간 고사 대체 과제]]
