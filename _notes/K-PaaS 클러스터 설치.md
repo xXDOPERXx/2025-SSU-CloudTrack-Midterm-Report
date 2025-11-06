@@ -1,13 +1,11 @@
----
-
----
----
+___
 ##### https://github.com/K-PaaS/container-platform/blob/master/install-guide/standalone/cp-cluster-install-single.md
 # 클러스터 설치
 ### 흐름
 2.1.5 -> 2.2 -> 2.3 -> 2.4 -> 2.5 -> 2.6 -> 2.1.6
 ### 목적
  K-PaaS 컨테이너 플랫폼의 클러스터를 설치
+# 실습 시 알아야 할 사항
 ## 인스턴스 환경 구성
 ![](/assets/img/스크린샷 2025-11-04 오전 10.37.08.png)
 ## NFS 스토리지 설치
